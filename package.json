@@ -1,0 +1,19 @@
+{
+  "name": "academic-knowledge-utils",
+  "version": "0.0.1",
+  "description": "Util functions for MS academic knowledge API",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@types/node": "^10.5.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:yan-foto/ms-academic-knowledge-js.git"
+  },
+  "author": "Yan Foto <yan.foto@quaintous.com>",
+  "license": "AGPLV3"
+}
